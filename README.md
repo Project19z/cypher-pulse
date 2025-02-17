@@ -7,7 +7,7 @@
         Visualize ownership and lifetimes in Rust for debugging and optimization
     </p>
     <p>
-        <img src="docs/readme-screenshot.png" />
+        <img src="https://github.com/Project19z/cypher-pulse/blob/a66a91b6283afba8c91e504d31b01c678a8faf7a/Cypher%20Pulse.png" />
     </p>
 </div>
 
