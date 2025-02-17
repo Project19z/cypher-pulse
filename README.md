@@ -1,7 +1,7 @@
 <div align="center">
     <h1>
-      🦉<br />
-      RustOwl
+      <br />
+      Cypher Pulse
     </h1>
     <p>
         Visualize ownership and lifetimes in Rust for debugging and optimization
